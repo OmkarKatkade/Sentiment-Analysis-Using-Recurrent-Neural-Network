@@ -1,1 +1,1 @@
-# Sentiment-Analysis-Using-Recurrent-Neural-Network
+# Sentiment-Analysis-On-Movie-Reviews-Using-Recurrent-Neural-Network
